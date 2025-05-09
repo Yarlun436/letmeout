@@ -17,3 +17,14 @@
         
     ]
 }
+
+
+
+
+/////////////////
+{
+    "files.autoSave": "afterDelay",
+    "editor.dropIntoEditor.preferences": [
+
+    ]
+}
